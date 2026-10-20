@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/lazy-static/commit/64447c593254b3abeb0a2f03113368b52a69c084",
       "git:hexsha": "64447c593254b3abeb0a2f03113368b52a69c084",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.1.0"
     },
     {
